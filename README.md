@@ -1,2 +1,3 @@
-## Uploading-Data-Analytics-Assignment
-Introduction to Data
+## Data-Analytics-Assignment
+Reporitries of Assignments of Data Analytics Training
+1.Introduction to Data
